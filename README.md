@@ -6,8 +6,8 @@ WandaFlix is your ultimate app for streaming movies securely and easily. Enjoy o
 
 Important Links:
 
-Privacy Policy
-Terms of Service
+Privacy Policy:https://aturinzireedwin13-star.github.io/Wandaflix-Privacy-Policy
+Terms of Service:https://aturinzireedwin13-star.github.io/Wandaflix-site/terms.html
 Contact: aturinzireedwin13@gmail.com
 
 © 2026 BK Software Developers
